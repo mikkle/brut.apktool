@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>brut.apktool.smali</groupId>
+  <artifactId>maven-smali-plugin</artifactId>
+  <version>1.2.4-brut1</version>
+  <versioning>
+    <latest>1.2.6-brut5</latest>
+    <versions>
+      <version>1.2.4-brut1</version>
+      <version>1.2.4-brut3</version>
+      <version>1.2.6-brut5</version>
+    </versions>
+    <lastUpdated>20110513221832</lastUpdated>
+  </versioning>
+</metadata>

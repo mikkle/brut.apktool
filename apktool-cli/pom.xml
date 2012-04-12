@@ -4,13 +4,13 @@
 
     <groupId>brut.apktool</groupId>
     <artifactId>apktool-cli</artifactId>
-    <version>1.4.4-SNAPSHOT</version>
+    <version>1.4.4-mikkle</version>
     <packaging>jar</packaging>
 
     <parent>
         <groupId>brut.apktool</groupId>
         <artifactId>apktool-project</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0-mikkle</version>
     </parent>
 
     <name>apktool cli</name>

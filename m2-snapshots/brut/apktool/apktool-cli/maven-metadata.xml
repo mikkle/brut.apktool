@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>brut.apktool</groupId>
+  <artifactId>apktool-cli</artifactId>
+  <version>1.3.3-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>1.3.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20110119135623</lastUpdated>
+  </versioning>
+</metadata>

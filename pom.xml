@@ -75,11 +75,12 @@
 
     <repositories>
         <repository>
-            <id>android-apktool.googlecode.com</id>
-            <url>http://android-apktool.googlecode.com/svn/m2-releases</url>
+            <id>mikkle.github.com</id>
+            <url>http://mikkle.github.com/brut.apktool/m2-releases</url>
         </repository>
     </repositories>
 
+<!--
     <distributionManagement>
         <repository>
             <id>android-apktool.googlecode.com</id>
@@ -90,4 +91,5 @@
             <url>dav:https://android-apktool.googlecode.com/svn/m2-snapshots</url>
         </snapshotRepository>
     </distributionManagement>
+-->
 </project>

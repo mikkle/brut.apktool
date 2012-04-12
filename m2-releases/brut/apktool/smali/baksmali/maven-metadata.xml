@@ -3,7 +3,7 @@
   <groupId>brut.apktool.smali</groupId>
   <artifactId>baksmali</artifactId>
   <versioning>
-    <release>1.3.0-brut6</release>
+    <release>1.3.3-dev</release>
     <versions>
       <version>1.2.4-brut1</version>
       <version>1.2.4-brut3</version>
